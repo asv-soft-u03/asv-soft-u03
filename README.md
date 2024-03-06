@@ -1,8 +1,9 @@
 <h1 align="center"> Hi, I’m U-03 </h1>
+<hr align="center" width="50%" size="2" color="red"/>
+<div display="flex">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<hr align="center" width="1000" size="2" color="red"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Asv+Drones+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Asv+Drones+Developer)](https://git.io/typing-svg)  
+</div>
 <hr align="center" width="50%" size="2" color="red"/>
 
 
